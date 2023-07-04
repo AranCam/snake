@@ -44,7 +44,7 @@ basic.forever(function () {
     }
 })
 basic.forever(function () {
-    basic.pause(10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+    basic.pause(1000000000)
     display.showColor(GAME_ZIP64.colors(ZipLedColors.Black))
     display.setBrightness(255)
     basic.showString("Game Over")
