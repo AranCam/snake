@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-kitronik-zip-64": "github:kitronikltd/pxt-kitronik-zip-64#v0.1.4"
     },
     "files": [
         "main.blocks",
